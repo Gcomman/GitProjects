@@ -1,0 +1,1 @@
+Branch criada para que sejam feitas alterações teste dentro do git, sem afetar minha main.
