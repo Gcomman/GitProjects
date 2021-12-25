@@ -1,0 +1,2 @@
+Projeto criado a partir dos exercícios do Módulo E do curso de JS do Gustavo Guanabara. A ideia proposta era criar um contador, isto é, uma solução que fosse capaz de contar de x até y saltando quando necessário
+As tecnologias utilizadas foram: HTML, CSS e JS
